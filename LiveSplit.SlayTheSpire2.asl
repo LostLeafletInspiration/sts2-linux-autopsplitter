@@ -31,6 +31,7 @@ startup
             { "bosses", "CEREMONIAL_BEAST_BOSS",    "Ceremonial Beast", true },
             { "bosses", "THE_KIN_BOSS",             "The Kin", true },
             { "bosses", "SOUL_FYSH_BOSS",           "Soul Fysh", true },
+            { "bosses", "WATERFALL_GIANT_BOSS",     "Waterfall Giant", true },
             { "bosses", "LAGAVULIN_MATRIARCH_BOSS", "Lagavulin Matriarch", true },
             { "bosses", "THE_INSATIABLE_BOSS",      "The Insatiable", true },
             { "bosses", "KNOWLEDGE_DEMON_BOSS",     "Knowledge Demon", true },
